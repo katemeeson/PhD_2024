@@ -1,0 +1,1 @@
+1. 'IGROV1_example_no_growth_thresholds.ipnyb' is an example of a model built with no growth thresholds, constrained for media conditions and gene expression data (CCLE; 2020). Gene expression and media conditions are cell line-specific, according to 'media_subtype_site_growth_all_datasets.xls' supplementary file. 
