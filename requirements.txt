@@ -1,0 +1,5 @@
+cobra >= 0.26.2
+mewpy >= 0.1.32
+gurobipy >= 11.0.0
+swiglpk >= 5.0.5
+pandas >= 1.4.3
