@@ -1,0 +1,36 @@
+﻿https://www.thermofisher.com/uk/en/home/technical-resources/media-formulation.93.html,,,,,
+Component,mg/L,g/L,reaction,lb,ub
+Alanine,25,0.025,HMR_9061,-0.025,1000
+L-Arginine-HCl,126.98,0.12698,HMR_9066,-0.12698,1000
+L-Asparagine-H2O,50,0.05,HMR_9062,-0.05,1000
+L-Cysteine-HCl-H2O,100,0.1,HMR_9065,-0.1,1000
+Aspartate,30,0.03,HMR_9070,-0.03,1000
+Glutamate,75,0.075,HMR_9071,-0.075,1000
+Glycine,50,0.05,HMR_9067,-0.05,1000
+L-Histidine-HCl-H2O,42,0.042,HMR_9038,-0.042,1000
+Hydroxy-L-Proline,,0,EX_4hpro[e],0,1000
+L-Isoleucine,52.4,0.0524,HMR_9039,-0.0524,1000
+L-Leucine,52,0.052,HMR_9040,-0.052,1000
+L-Lysine-HCL,73,0.073,HMR_9041,-0.073,1000
+L-Methionine ,15,0.015,HMR_9042,-0.015,1000
+L-Phenylalanine,32,0.032,HMR_9043,-0.032,1000
+L-Proline,40,0.04,HMR_9068,-0.04,1000
+L-Serine,25,0.025,HMR_9069,-0.025,1000
+L-Threonine,48,0.048,HMR_9044,-0.048,1000
+L-Tryptophan,10,0.01,HMR_9045,-0.01,1000
+L-Tyrosine-2Na-2H2O,52,0.052,HMR_9064,-0.052,1000
+L-Valine,46,0.046,HMR_9046,-0.046,1000
+Ascorbic acid,50,0.05,HMR_9158,-0.05,1000
+D-biotin,0.1,0.0001,HMR_9109,-0.0001,1000
+choline (chloride),1,0.001,HMR_9083,-0.001,1000
+Folic acid,1,0.001,HMR_9146,-0.001,1000
+myo-Inositol,2,0.002,HMR_9361,-0.002,1000
+nicotinamide,1,0.001,HMR_9378,-0.001,1000
+D-Pantothenic acid.0.5Ca,1,0.001,HMR_9145,-0.001,1000
+Pyridoxine-HCl,1,0.001,HMR_9144,-0.001,1000
+Riboflavin,0.1,0.0001,HMR_9143,-0.0001,1000
+D-Glucose,1000,1,HMR_9034,-1,1000
+Glutamine,292,0.292,HMR_9063,-0.292,1000
+Thiamine hydrochloride,1,0.001,HMR_9159,-0.001,1000
+Lipoic acid,0.2,0.0002,HMR_9167,-0.0002,1000
+Estradiol,2.724E-07,2.724E-10,HMR_9314,-2.724E-10,1000

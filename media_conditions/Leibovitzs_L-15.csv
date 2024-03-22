@@ -1,0 +1,29 @@
+﻿"Leibovitz's L-15 medium does not contain glucose. Glucose is substituted with galactose, free base amino acids and a complement of salts to maintain physiological pH control",,,,,
+https://www.google.com/search?client=safari&rls=en&q=thermofisher+leibovitz&ie=UTF-8&oe=UTF-8,,,,,
+Component,mg/L,g/L,reaction,lb,ub
+L-Arginine·HCl,500,0.5,HMR_9066,-0.5,1000
+L-Cystine·2HCl,120,0.12,HMR_9065,-0.12,1000
+L-Glutamine,300,0.3,HMR_9063,-0.3,1000
+Glycine,200,0.2,HMR_9067,-0.2,1000
+L-Histidine·HCl·H2O,250,0.25,HMR_9038,-0.25,1000
+L-Isoleucine,250,0.25,HMR_9039,-0.25,1000
+L-Leucine,125,0.125,HMR_9040,-0.125,1000
+L-Lysine·HCl,75,0.075,HMR_9041,-0.075,1000
+L-Methionine,75,0.075,HMR_9042,-0.075,1000
+L-Phenylalanine,125,0.125,HMR_9043,-0.125,1000
+L-Serine,200,0.2,HMR_9069,-0.2,1000
+L-Threonine,300,0.3,HMR_9044,-0.3,1000
+L-Tryptophan,20,0.02,HMR_9045,-0.02,1000
+L-Tyrosine·2Na·2H2O,300,0.3,HMR_9064,-0.3,1000
+L-Valine,100,0.1,HMR_9046,-0.1,1000
+Choline chloride,1,0.001,HMR_9083,-0.001,1000
+Folic acid,1,0.001,HMR_9146,-0.001,1000
+myo-Inositol,2,0.002,HMR_9361,-0.002,1000
+Nicotinamide,1,0.001,HMR_9378,-0.001,1000
+D-Pantothenic acid,1,0.001,HMR_9145,-0.001,1000
+Pyridoxine(·HCl),1,0.001,HMR_9144,-0.001,1000
+Riboflavin,0.1,0.0001,HMR_9143,-0.0001,1000
+Thiamine·HCl,1,0.001,HMR_9159,-0.001,1000
+Alanine,225,0.225,HMR_9061,-0.225,1000
+L-Asparagine-H2O,250,0.25,HMR_9062,-0.25,1000
+Galactose,900,0.9,HMR_9140,-0.9,1000

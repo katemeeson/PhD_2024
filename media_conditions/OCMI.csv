@@ -1,0 +1,87 @@
+﻿PMID: 26080861 reference the 2007 Ince paper PMID: 17692807 which has the original definition of OCMI in 'experimental procedures',,,,,,,,,,,,,
+Should be Ham's F12 from Sigma but I have used thermofisher as I can access the composition sheet,,,,,,,,,,,,,
+Ham's F12,,,,,,,Additional supplements,,,,,,
+Component,mg/L,g/L,reaction,lb,ub,,Component,ug/mL,mg/L,g/L,reaction,lb,ub
+L-Arginine·HCl,211,0.211,HMR_9066,-0.211,1000,,Choline chloride,3.5,,0.0035,HMR_9083,-0.0035,1000
+Alanine,8.9,0.0089,HMR_9061,-0.0089,1000,,Folic acid,0.33,,0.00033,HMR_9146,-0.00033,1000
+L-Asparagine-H2O,15.01,0.01501,HMR_9062,-0.01501,1000,,myo-Inositol,4.5,,0.0045,HMR_9361,-0.0045,1000
+Aspartate,13.3,0.0133,HMR_9070,-0.0133,1000,,Thiamine·HCl,0.08,,0.00008,HMR_9159,-0.00008,1000
+L-Cystine·2HCl,35.12,0.03512,HMR_9065,-0.03512,1000,,Cholesterol,3.5,,0.0035,HMR_9285,-0.0035,1000
+L-Glutamine,146,0.146,HMR_9063,-0.146,1000,,Hypoxanthine,1.75,,0.00175,HMR_9358,-0.00175,1000
+Glutamate,14.7,0.0147,HMR_9071,-0.0147,1000,,Ribose,0.125,,0.000125,HMR_9406,-0.000125,1000
+Glycine,7.5,0.0075,HMR_9067,-0.0075,1000,,Uracil,0.075,,0.000075,HMR_9437,-0.000075,1000
+L-Histidine·HCl·H2O,21,0.021,HMR_9038,-0.021,1000,,Xanthine,0.085,,0.000085,EX_xan[e],-0.000085,1000
+L-Isoleucine,4,0.004,HMR_9039,-0.004,1000,,Ascorbic acid,0.012,,0.000012,HMR_9158,-0.000012,1000
+L-Leucine,13.1,0.0131,HMR_9040,-0.0131,1000,,Glutamine,,292,0.292,HMR_9063,-0.292,1000
+L-Lysine·HCl,36.5,0.0365,HMR_9041,-0.0365,1000,,Triiodothyronine,,0.0000002,2E-10,HMR_9427,-2E-10,1000
+L-Methionine,4.5,0.0045,HMR_9042,-0.0045,1000,,Ethanolamine-phosphate,5,,0.005,EX_ethamp[e],-0.005,1000
+L-Phenylalanine,5,0.005,HMR_9043,-0.005,1000,,Selenate (selenious acid ester),0.008,,0.000008,HMR_9169,-0.000008,1000
+L-Proline,34.5,0.0345,HMR_9068,-0.0345,1000,,Estradiol,0.0005,,0.0000005,HMR_9314,-0.0000005,1000
+L-Serine,10.5,0.0105,HMR_9069,-0.0105,1000,,Linoleic acid,5,,0.005,HMR_9035,-0.005,1000
+L-Threonine,11.9,0.0119,HMR_9044,-0.0119,1000,,Retinoic acid (4-hydroxyretinoic acid),0.025,,0.000025,HMR_9713,-0.000025,1000
+L-Tryptophan,2.04,0.00204,HMR_9045,-0.00204,1000,,Lipoic acid,0.05,,0.00005,HMR_9167,-0.00005,1000
+L-Tyrosine·2Na·2H2O,7.81,0.00781,HMR_9064,-0.00781,1000,,α-tocopherol phosphate,0.003,,0.000003,HMR_9151,-0.000003,1000
+L-Valine,11.7,0.0117,HMR_9046,-0.0117,1000,,,,,,,,
+D-biotin,0.0073,0.0000073,HMR_9109,-0.0000073,1000,,,,,,,,
+Choline chloride,14,0.014,HMR_9083,-0.014,1000,,"Now make a 1:1 of M199 and F12, and add in those supplements",,,,,,
+Folic acid,1.3,0.0013,HMR_9146,-0.0013,1000,,"to make a 1:1 mix, average the two values of the contributing solutions for shared metabolites, half for unique, and then add in the supplements",,,,,,
+myo-Inositol,18,0.018,HMR_9361,-0.018,1000,,Component,mg/L,g/L,reaction,lb,ub,
+Nicotinamide,122,0.122,HMR_9378,-0.122,1000,,L-Arginine·HCl,140.5,0.1405,HMR_9066,-0.1405,1000,
+D-Pantothenic acid,0.5,0.0005,HMR_9145,-0.0005,1000,,Alanine,16.95,0.01695,HMR_9061,-0.01695,1000,
+Pyridoxine(·HCl),0.06,0.00006,HMR_9144,-0.00006,1000,,L-Asparagine-H2O,15.01,0.01501,HMR_9062,-0.01501,1000,
+Riboflavin,0.037,0.000037,HMR_9143,-0.000037,1000,,Aspartate,21.65,0.02165,HMR_9070,-0.02165,1000,
+Thiamine·HCl,0.3,0.0003,HMR_9159,-0.0003,1000,,L-Cystine·2HCl,30.56,0.03056,HMR_9065,-0.03056,1000,
+D-Glucose,1802,1.802,HMR_9034,-1.802,1000,,L-Glutamine,146,0.146,HMR_9063,-0.146,1000,
+Hypoxanthine,4.77,0.00477,HMR_9358,-0.00477,1000,,Glutamate,44.85,0.04485,HMR_9071,-0.04485,1000,
+Linoleic acid,0.084,0.000084,HMR_9035,-0.000084,1000,,Glycine,28.75,0.02875,HMR_9067,-0.02875,1000,
+Lipoic acid,0.21,0.00021,HMR_9167,-0.00021,1000,,L-Histidine·HCl·H2O,21.44,0.02144,HMR_9038,-0.02144,1000,
+Putrescine,0.161,0.000161,EX_ptrc[e],-0.000161,1000,,L-Isoleucine,22,0.022,HMR_9039,-0.022,1000,
+Thymidine,0.7,0.0007,HMR_9423,-0.0007,1000,,L-Leucine,36.55,0.03655,HMR_9040,-0.03655,1000,
+,,,,,,,L-Lysine·HCl,53.25,0.05325,HMR_9041,-0.05325,1000,
+Medium 199,,,,,,,L-Methionine,9.75,0.00975,HMR_9042,-0.00975,1000,
+http://www.invitrogen.com/site/us/en/home/support/Product-Technical-Resources/media_formulation.89.html,,,,,,,L-Phenylalanine,15,0.015,HMR_9043,-0.015,1000,
+Component,mg/L,g/L,reaction,lb,ub,,L-Proline,37.25,0.03725,HMR_9068,-0.03725,1000,
+L-Arginine·HCl,70,0.07,HMR_9066,-0.07,1000,,L-Serine,17.75,0.01775,HMR_9069,-0.01775,1000,
+Alanine,25,0.025,HMR_9061,-0.025,1000,,L-Threonine,20.95,0.02095,HMR_9044,-0.02095,1000,
+Aspartate,30,0.03,HMR_9070,-0.03,1000,,L-Tryptophan,6.02,0.00602,HMR_9045,-0.00602,1000,
+L-Cystine·2HCl,26,0.026,HMR_9065,-0.026,1000,,L-Tyrosine·2Na·2H2O,32.905,0.032905,HMR_9064,-0.032905,1000,
+Glutamate,75,0.075,HMR_9071,-0.075,1000,,L-Valine,18.35,0.01835,HMR_9046,-0.01835,1000,
+Glycine,50,0.05,HMR_9067,-0.05,1000,,D-biotin,0.00865,0.00000865,HMR_9109,-0.00000865,1000,
+L-Histidine·HCl·H2O,21.88,0.02188,HMR_9038,-0.02188,1000,,Choline chloride,10.75,0.01075,HMR_9083,-0.01075,1000,
+L-Isoleucine,40,0.04,HMR_9039,-0.04,1000,,Folic acid,0.985,0.000985,HMR_9146,-0.000985,1000,
+L-Leucine,60,0.06,HMR_9040,-0.06,1000,,myo-Inositol,13.525,0.013525,HMR_9361,-0.013525,1000,
+L-Lysine·HCl,70,0.07,HMR_9041,-0.07,1000,,Nicotinamide,61.0125,0.0610125,HMR_9378,-0.0610125,1000,
+L-Methionine,15,0.015,HMR_9042,-0.015,1000,,D-Pantothenic acid,0.255,0.000255,HMR_9145,-0.000255,1000,
+L-Phenylalanine,25,0.025,HMR_9043,-0.025,1000,,Pyridoxine(·HCl),0.0425,0.0000425,HMR_9144,-0.0000425,1000,
+L-Proline,40,0.04,HMR_9068,-0.04,1000,,Riboflavin,0.0235,0.0000235,HMR_9143,-0.0000235,1000,
+L-Serine,25,0.025,HMR_9069,-0.025,1000,,Thiamine·HCl,0.235,0.000235,HMR_9159,-0.000235,1000,
+L-Threonine,30,0.03,HMR_9044,-0.03,1000,,D-Glucose,1401,1.401,HMR_9034,-1.401,1000,
+L-Tryptophan,10,0.01,HMR_9045,-0.01,1000,,Hypoxanthine,4.31,0.00431,HMR_9358,-0.00431,1000,
+L-Tyrosine·2Na·2H2O,58,0.058,HMR_9064,-0.058,1000,,Linoleic acid,5.084,0.005084,HMR_9035,-0.005084,1000,
+L-Valine,25,0.025,HMR_9046,-0.025,1000,,Lipoic acid,0.134,0.000134,HMR_9167,-0.000134,1000,
+D-biotin,0.01,0.00001,HMR_9109,-0.00001,1000,,Putrescine,0.161,0.000161,EX_ptrc[e],-0.000161,1000,
+Choline chloride,0.5,0.0005,HMR_9083,-0.0005,1000,,Thymidine,0.7,0.0007,HMR_9423,-0.0007,1000,
+Folic acid,0.01,0.00001,HMR_9146,-0.00001,1000,,Nicotinate,0.025,0.000025,HMR_9142,-0.000025,1000,
+myo-Inositol,0.05,0.00005,HMR_9361,-0.00005,1000,,Acetate,0.1,0.0001,HMR_9086,-0.0001,1000,
+Nicotinamide,0.025,0.000025,HMR_9378,-0.000025,1000,,Deoxyribose,0.5,0.0005,HMR_9309,-0.0005,1000,
+Nicotinate,0.025,0.000025,HMR_9142,-0.000025,1000,,Adenine (sulfate),10,0.01,HMR_9253,-0.01,1000,
+D-Pantothenic acid,0.01,0.00001,HMR_9145,-0.00001,1000,,Adeosine (5-p or 5-TP),1,0.001,HMR_9254,-0.001,1000,
+Riboflavin,0.01,0.00001,HMR_9143,-0.00001,1000,,Cholesterol,3.7,0.0037,HMR_9285,-0.0037,1000,
+Thiamine·HCl,0.01,0.00001,HMR_9159,-0.00001,1000,,Guanine (hydrochloride),0.3,0.0003,HMR_9353,-0.0003,1000,
+Acetate,0.1,0.0001,HMR_9086,-0.0001,1000,,Ribose,0.625,0.000625,HMR_9406,-0.000625,1000,
+Deoxyribose,0.5,0.0005,HMR_9309,-0.0005,1000,,Thymine,0.3,0.0003,HMR_9422,-0.0003,1000,
+Adenine (sulfate),10,0.01,HMR_9253,-0.01,1000,,Uracil,0.375,0.000375,HMR_9437,-0.000375,1000,
+Adeosine (5-p or 5-TP),1,0.001,HMR_9254,-0.001,1000,,Xanthine,0.429,0.000429,EX_xan[e],-0.000429,1000,
+Cholesterol,0.2,0.0002,HMR_9285,-0.0002,1000,,L-Hydroxyproline,10,0.01,EX_4hpro[e],-0.01,1000,
+D-Glucose,1000,1,HMR_9034,-1,1000,,Ascorbic acid,0.062,0.000062,HMR_9158,-0.000062,1000,
+Guanine (hydrochloride),0.3,0.0003,HMR_9353,-0.0003,1000,,Pyridoxal(HCl),0.025,0.000025,HMR_9400,-0.000025,1000,
+Hypoxanthine,0.35,0.00035,HMR_9358,-0.00035,1000,,α-tocopherol phosphate,0.003,0.000003,HMR_9151,-0.000003,1000,
+Ribose,0.5,0.0005,HMR_9406,-0.0005,1000,,,,,,,,
+Thymine,0.3,0.0003,HMR_9422,-0.0003,1000,,,,,,,,
+Uracil,0.3,0.0003,HMR_9437,-0.0003,1000,,,,,,,,
+Xanthine,0.344,0.000344,EX_xan[e],-0.000344,1000,,,,,,,,
+L-Hydroxyproline,10,0.01,EX_4hpro[e],-0.01,1000,,,,,,,,
+Ascorbic acid,0.05,0.00005,HMR_9158,-0.00005,1000,,,,,,,,
+Pyridoxal(HCl),0.025,0.000025,HMR_9400,-0.000025,1000,,,,,,,,
+Pyridoxine(·HCl),0.025,0.000025,HMR_9144,-0.000025,1000,,,,,,,,
+α-tocopherol phosphate,,0.000003,HMR_9151,-0.000003,1000,,,,,,,,

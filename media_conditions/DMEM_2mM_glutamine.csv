@@ -1,0 +1,26 @@
+﻿"DMEM from previous tab, plus 2mM glutamine (+ 292 mg/L)",,,,,
+Component,mg/L,g/L,reaction,lb,ub
+L-Arginine·HCl,84,0.084,HMR_9066,-0.084,1000
+L-Cystine·2HCl,63,0.063,HMR_9065,-0.063,1000
+L-Glutamine,876,0.876,HMR_9063,-0.876,1000
+Glycine,30,0.03,HMR_9067,-0.03,1000
+L-Histidine·HCl·H2O,42,0.042,HMR_9038,-0.042,1000
+L-Isoleucine,105,0.105,HMR_9039,-0.105,1000
+L-Leucine,105,0.105,HMR_9040,-0.105,1000
+L-Lysine·HCl,146,0.146,HMR_9041,-0.146,1000
+L-Methionine,30,0.03,HMR_9042,-0.03,1000
+L-Phenylalanine,66,0.066,HMR_9043,-0.066,1000
+L-Serine,42,0.042,HMR_9069,-0.042,1000
+L-Threonine,95,0.095,HMR_9044,-0.095,1000
+L-Tryptophan,16,0.016,HMR_9045,-0.016,1000
+L-Tyrosine·2Na·2H2O,104,0.104,HMR_9064,-0.104,1000
+L-Valine,94,0.094,HMR_9046,-0.094,1000
+Choline chloride,4,0.004,HMR_9083,-0.004,1000
+Folic acid,4,0.004,HMR_9146,-0.004,1000
+myo-Inositol,7.2,0.0072,HMR_9361,-0.0072,1000
+Nicotinamide,4,0.004,HMR_9378,-0.004,1000
+D-Pantothenic acid,4,0.004,HMR_9145,-0.004,1000
+Pyridoxine(·HCl),4,0.004,HMR_9144,-0.004,1000
+Riboflavin,0.4,0.0004,HMR_9143,-0.0004,1000
+Thiamine·HCl,4,0.004,HMR_9159,-0.004,1000
+D-Glucose,4500,4.5,HMR_9034,-4.5,1000
