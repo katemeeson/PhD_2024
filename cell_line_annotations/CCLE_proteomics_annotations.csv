@@ -1,0 +1,19 @@
+﻿,,,,,,,,,source_of_growth_rate,,,,,,,
+cell_line_in_2020_dataset,histotype,ref,media,ref2,site,ref3,growth rate (g/gDW/hour),doubling time (hours),ref4,Cam n1,Cam n2,Sam,Kate n1,Kate n2,Kate n3,Kate n4
+CAOV3,HGSOC  ,"Barnes et al, 2021",DMEM,https://www.atcc.org/products/htb-75,ovary,Cellosaurus.org,0.023975066,41.71,Taylor lab,38.49,41.85,44.79,,,,
+COV362,HGSOC  ,"Barnes et al, 2021",DMEM,"(Barretina et al., 2012)",pleural effusion,Cellosaurus.org,0.033707865,29.66666667,Taylor lab,27.08,30.93,30.99,,,,
+TYKNU,LGSOC  ,"Barnes et al, 2021",EMEM+10%FBS,"(Barretina et al., 2012)",unspecified,Cellosaurus.org,0.022222222,45,Cellosaurus.org,,,,,,,
+OVCAR4,HGSOC  ,"Barnes et al, 2021",Leibovitz's L-15 medium + 20% FBS,https://www.atcc.org/products/htb-76,ascites,Cellosaurus.org,0.025337838,39.46666667,Cellosaurus.org,,,,,,,
+SNU119,HGSOC  ,"Barnes et al, 2021",DMEM +1% MEM vits +1% MEM NEAAs + 10% FBS,PMID: 27147568,ascites,Cellosaurus.org,0.018867925,53,Cellosaurus.org,,,,,,,
+FUOV1,HGSOC  ,"Barnes et al, 2021",DMEM:F12+10% FBS,https://www.dsmz.de/collection/catalogue/details/culture/ACC-444,ovary,Cellosaurus.org,,,None reliable reported,,,,,,,
+IGROV1,CCOC,"Barnes et al, 2021",RPMI1640+10%FBS,"(Barretina et al., 2012)",ovary,Cellosaurus.org,0.037610481,26.58833333,Cellosaurus.org,,,,,,,
+HEYA8,LGSOC  ,"Barnes et al, 2021",DMEM+1%MEM_vits_+1%MEM_NEAAs,PMID: 27147568,unspecified,Cellosaurus.org,0.0625,16,Cellosaurus.org,,,,,,,
+JHOS2,HGSOC  ,"Barnes et al, 2021",DMEM:F12+10%FBS,"(Barretina et al., 2012)",lymph node,Cellosaurus.org,0.016393443,61,Cellosaurus.org,,,,,,,
+NIHOVCAR3,HGSOC  ,"Barnes et al, 2021",RPMI1640+10%FBS,"(Barretina et al., 2012)",ascites,Cellosaurus.org,0.03417635,29.26,Taylor lab,27.41,28.65,31.72,,,,
+OV56,LGSOC  (debate whether it is CCOC McCabe et al 2023),"Barnes et al, 2021",DMEM:F12+10%FBS,"(Barretina et al., 2012)",ascites,Cellosaurus.org,0.03806382,26.27166667,Taylor lab,25.8,28.72,23.4,22.53,23.78,17.33,16.07
+OVSAHO,HGSOC  ,"Barnes et al, 2021",RPMI1640+10%FBS,"(Barretina et al., 2012)",abdomen,Cellosaurus.org,0.020546538,48.67,Taylor lab,47.1,56.99,41.92,,,,
+RMUGS,MOC,"Barnes et al, 2021",F12+10%FBS,PMID: 23729402,ovary,Cellosaurus.org,0.022346369,44.75,Cellosaurus.org,,,,,,,
+OV90,HGSOC  ,Depmap portal,1:1 MCDB 105 and Medium 199 + 1.85/L sodium bicarbonate + 15% FBS,https://www.atcc.org/products/crl-11732#required-products,ascites,PMID: 25230021 supplementary spreadsheet,0.024521824,40.78,Cellosaurus.org,,,,,,,
+A2780,ENOC,"Barnes et al, 2021",RPMI1640+10%FBS,"(Barretina et al., 2012)",ovary,Cellosaurus.org,0.05024284,19.90333333,Cellosaurus.org,,,,,,,
+KURAMOCHI,HGSOC  ,"Barnes et al, 2021",RPMI1640+10%FBS,http://www.cellbankaustralia.com/kuramochi.html,ascites,Cellosaurus.org,0.026267402,38.07,Taylor lab,27.81,36.6,39.26,27.48,37.88,49.16,48.3
+OVCAR8,LGSOC  ,"Barnes et al, 2021",RPMI1640+10%FBS,https://www.atcc.org/products/crl-3468,unspecified,Cellosaurus.org,0.037372699,26.7575,Cellosaurus.org,,,,,,,
