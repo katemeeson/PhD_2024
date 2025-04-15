@@ -1,3 +1,6 @@
+## Link to publication of PhD work: https://doi.org/10.1038/s41540-024-00418-5
+![Uploading image.png…]()
+
 Work presented here has been published in Systems Biology and Applications, August 2024 (Meeson and Schwartz): https://lnkd.in/epkMwiTP
 'Constraint-based modelling predicts metabolic signatures of low and high-grade serous ovarian cancer'
 
