@@ -22,4 +22,4 @@ In 'cell_line_annotations' folder are CCLE cell lines, with subtype, media and g
 
 In 'ocm_patient_modelling' folder is the code to iterate through large RNAseq dataset and constrain patient-specific models, using final single-omics integration algorithm, as well as model fluxes and cluster assignments following k-means clustering.
 
-In 'siTPI1_validation' folder is a dataframe of mdoel fluxes from Human1 constrained using NTsiRNA-specific or siTPI1-specific RNAseq data from experimental siRNA transfection, and a model built using NTsiRNA expression data with TPI1 knockout simulated within model.
+In 'siTPI1_validation' folder is a dataframe of model fluxes from Human1 constrained using NTsiRNA-specific or siTPI1-specific RNAseq data from experimental siRNA transfection, and a model built using NTsiRNA expression data with TPI1 knockout simulated within model.
