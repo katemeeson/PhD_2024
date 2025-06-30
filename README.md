@@ -1,12 +1,11 @@
-## Link to publication of PhD work: https://doi.org/10.1038/s41540-024-00418-5
+### Link to publication of PhD work: https://doi.org/10.1038/s41540-024-00418-5
 ![image](https://github.com/user-attachments/assets/a2dc1862-6591-46ff-b0f6-6b3319e59c2c)
 ![image](https://github.com/user-attachments/assets/8c4366a8-e8ef-4604-96c5-f7f10699687f)
 
 
-Work presented here has been published in Systems Biology and Applications, August 2024 (Meeson and Schwartz): https://lnkd.in/epkMwiTP
-'Constraint-based modelling predicts metabolic signatures of low and high-grade serous ovarian cancer'
+### Work presented here has been published in Systems Biology and Applications, August 2024 (Meeson and Schwartz): https://lnkd.in/epkMwiTP 'Constraint-based modelling predicts metabolic signatures of low and high-grade serous ovarian cancer'
 
-Work has been included in the pre-print: https://www.biorxiv.org/content/10.1101/2025.06.24.661329v1
+### Work has been included in the pre-print: https://www.biorxiv.org/content/10.1101/2025.06.24.661329v1
 
 In 'algorithm_development' folder
   1. 'IGROV1_example_no_growth_thresholds.ipnyb' is an example of a model built with no growth thresholds, constrained for media conditions and gene expression data (CCLE; 2020). Gene expression and media conditions are cell line-specific, according to 'media_subtype_site_growth_all_datasets.xls' supplementary file. Corresponds to Results 3.2 of Thesis.
