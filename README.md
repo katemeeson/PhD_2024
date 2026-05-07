@@ -8,7 +8,7 @@
 ### Work has been included in the pre-print: https://www.biorxiv.org/content/10.1101/2025.06.24.661329v1
 
 In src folder
-1. 'integrate_omics.py' is a python file for the integrate_omics function. To use, at a minimum, you need a CobraModel; a proteomics or transcriptomics pandas DataFrame (sample as a column and gene IDs as rows; gene IDs must match model IDs); biomass_id the ID of the biomass equation in model; an experimentally derived growth_threshold in g/gDW/hour; a chosen objective_function in dictionary format; optional: a dictionary containing exchange reaction IDs and g/L of media component.
+1. 'integrate_omics.py' is a python file for the integrate_omics function. File must be downloaded into the folder with Jupyter notebook that you wish to perform modelling. Import using: 'import integrate_omics as integrate'. To use, at a minimum, you need a CobraModel; a proteomics or transcriptomics pandas DataFrame (sample as a column and gene IDs as rows; gene IDs must match model IDs); biomass_id the ID of the biomass equation in model; an experimentally derived growth_threshold in g/gDW/hour; a chosen objective_function in dictionary format; optional: a dictionary containing exchange reaction IDs and g/L of media component.
 
 In 'algorithm_development' folder
   1. 'IGROV1_example_no_growth_thresholds.ipnyb' is an example of a model built with no growth thresholds, constrained for media conditions and gene expression data (CCLE; 2020). Gene expression and media conditions are cell line-specific, according to 'media_subtype_site_growth_all_datasets.xls' supplementary file. Corresponds to Results 3.2 of Thesis.
