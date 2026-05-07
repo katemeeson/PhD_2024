@@ -13,7 +13,7 @@ def integrate_omics(model_file, biomass_id, objective_function, growth_threshold
     biomass_id: ID for the biomass equation in model_file; this is unique to each model so must be User specified
     objective_function: chosen objective function; dictionary format; e.g. {model.reactions.get_by_id('biomass_id'):1}
     growth_threshold: a numeric string of growth rate; derived from experimental measurements; units g/gDW/hour which is equivalent to cell doublings per hour
-    omics: Pandas DataFrame with sample ID as column and gene/protein IDs as rows; gene or protein IDs must match model IDs
+    omics: Pandas DataFrame with sample ID as column and gene/protein IDs as rows; gene or protein IDs must match model IDs; recommend Log2(TPM+1) with min-max scaling between range [0,1]
 
     METHOD: Uses essential reaction and gene lists and experimental growth thresholds to integrate omics data as enzyme expression values (reaction boundaries) according to GPR logic 
 
